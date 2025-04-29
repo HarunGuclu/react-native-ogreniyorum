@@ -1,4 +1,4 @@
----Dikkat!!!!----Kodlar main branch'inde bulunmaktadır.----------
+---Dikkat!!!!----Kodlar master branch'inde bulunmaktadır.----------
 # react-native-ogreniyorum
 Temel react native öğrenme uygulaması
 
